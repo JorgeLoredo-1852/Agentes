@@ -2,7 +2,7 @@
 
 Unity Complete Project: https://drive.google.com/file/d/1COnZUTlj568mGyonaclWxen3A8b20cBS/view?usp=sharing
 
-Unity.exe = Robots.exe
+Simulation in Unity = Robots.exe
 
 Mesa Agents and Simulation: mesaAgent.py
 
